@@ -1,4 +1,4 @@
-## Welcome to my humble (for now) profile
+## Welcome to my humble profile
 
 I am an aspiring developer with no current fixed direction.
 I wish I could lock myself away and just... code. 

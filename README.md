@@ -1,7 +1,7 @@
 ## Welcome to my humble profile
 
 I am an aspiring developer with no current fixed direction.
-I wish I could lock myself away and just... code. 
+All I want is to disappear and just... code. 
 
 ### Current Activites
 - I’m currently learning Software Engineering Practices at CSE 110, UCSD.

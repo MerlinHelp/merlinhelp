@@ -1,11 +1,8 @@
-## Welcome to my humble profile
+## Welcome to my profile
 
-I am an aspiring developer with no current fixed direction.
-All I want is to disappear and just... code. 
 
 ### Current Activites
-- I’m currently learning Operating Systems in CSE 120, UCSD.
-- On the side, I desire to learn Operating Systems development, referencing [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01)
+- Learning Python Flask/FastAPI + React
 
 ### Other TODOS:
 - I plan to finish my older projects, and to refactor old code
